@@ -1,1 +1,1 @@
-nltk.corpus.reader.aligned
+corpus
