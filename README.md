@@ -1,1 +1,1 @@
-# Deployment of salaray-predict model
+# Deployment of movie reviews by nlp
